@@ -24,7 +24,7 @@ We will be doing the clock project in two weeks.In this week we'll be creating t
    git checkout -b name-of-your-choice
    ```
 4. **Modify the initial_index.html file and try to create a similar template as in the link**
-   https://extinctsion0.github.io/clock-project/
+   https://extinctsion0.github.io/clock-project-new/
     
 5. **Once your done with the template, commit the changes and push it to github**
    ```bash
